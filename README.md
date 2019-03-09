@@ -4,5 +4,8 @@ Hi
 #This is a test
 #This is test from github
 这是A分支的内容
+<<<<<<< HEAD
 
-哈哈哈！
+
+A分支又搞事情啦！！！！！
+
